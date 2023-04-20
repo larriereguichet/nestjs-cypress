@@ -7,3 +7,8 @@ which uses a `dto` annotated with an `@ApiProperty()` decorator from `@nestjs/sw
 npm install
 npm run test:cypress
 ```
+
+## Resources
+
+- https://github.com/nestjs/nest/issues/11531
+- https://github.com/larriereguichet/nestjs-cypress-nx
